@@ -22,6 +22,8 @@
 
 3、adafruit创建的显示对象似乎默认使用硬件 **I2C**，接口请用 **SDA = 21，SCL = 22**
 
+4、用大模型为每句代码加上注释``//FFT......``
+
 # 演示
 
 ![示例图片](https://github.com/Kokoroumi/ESP32_FFT_To_SSD1306/tree/main/images/ShowSpectrum.jpg)
