@@ -1,8 +1,10 @@
 # 声明
 
-源码：[xiaocainiao11111/esp32_FFT_music: 在esp32上用FFT库实现快速傅里叶变换显示声音频谱](https://github.com/xiaocainiao11111/esp32_FFT_music)
-源码：[xiaocainiao11111/esp32_FFT_music: 在esp32上用FFT库实现快速傅里叶变换显示声音频谱](https://github.com/xiaocainiao11111/esp32_FFT_music)
-源码：[xiaocainiao11111/esp32_FFT_music: 在esp32上用FFT库实现快速傅里叶变换显示声音频谱](https://github.com/xiaocainiao11111/esp32_FFT_music)
+**源码：**[xiaocainiao11111/esp32_FFT_music: 在esp32上用FFT库实现快速傅里叶变换显示声音频谱](https://github.com/xiaocainiao11111/esp32_FFT_music)
+
+**源码：**[xiaocainiao11111/esp32_FFT_music: 在esp32上用FFT库实现快速傅里叶变换显示声音频谱](https://github.com/xiaocainiao11111/esp32_FFT_music)
+
+**源码：**[xiaocainiao11111/esp32_FFT_music: 在esp32上用FFT库实现快速傅里叶变换显示声音频谱](https://github.com/xiaocainiao11111/esp32_FFT_music)
 
 不清楚是 **软件版本不同** 还是用的 **板子不同**，源码并不能正常运行
 
@@ -22,7 +24,7 @@
 
 # 演示
 
-![示例图片](https://github.com/Kokoroumi/ESP32_FFT_To_SSD1306/main/images/Show.jpg)
+![示例图片](https://github.com/Kokoroumi/ESP32_FFT_To_SSD1306/tree/main/images/ShowSpectrum.jpg)
 
 ## Contact me
 
