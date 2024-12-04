@@ -22,7 +22,7 @@
 
 # 演示
 
-![示例图片](https://github.com/Kokoroumi/ESP32_FFT_To_SSD1306/main/images/Show.jpg)
+![示例图片](https://github.com/Kokoroumi/ESP32_FFT_To_SSD1306/tree/main/images/Show.jpg)
 
 ## Contact me
 
